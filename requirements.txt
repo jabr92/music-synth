@@ -3,7 +3,7 @@ transformers
 accelerate
 pydub~=0.25.1
 torch~=2.3.1
-numpy~=1.26.4
+numpy==2.0.0
 torchaudio~=2.3.1
 pillow~=10.4.0
 scipy
